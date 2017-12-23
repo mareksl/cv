@@ -1,44 +1,43 @@
 Marek Sładczyk
 ==============
-
 Education
 ---------
 
-*   2010: Private School of the German Embassy Ankara, Turkey
-    
-    Bilingual (English, German) _International Baccalaureate_ Diploma
-    
 *   2013-2016: University of Gdańsk
     
     _B.A. in Applied Linguistics_ \- Translation Studies
+    
+*   2010: Private School of the German Embassy Ankara, Turkey
+    
+    Bilingual (English, German) _International Baccalaureate_ Diploma
     
 
 Work Experience
 ---------------
 
-*   2010-2011: _Translator - SMS Food Industries_, Starogard Gdański
-    
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni, dolore cumque unde non odit consequuntur voluptatum molestiae, sed quisquam, minima voluptas fugiat minus sunt corrupti ad officia aperiam. Facere, libero.
-    
-*   2014-2016: _Turkish Language Instructor - Lengua Viva language school_, Gdańsk
-    
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni, dolore cumque unde non odit consequuntur voluptatum molestiae, sed quisquam, minima voluptas fugiat minus sunt corrupti ad officia aperiam. Facere, libero.
-    
-*   2015-2017: _Linguistic Services - VoiceLab_, Gdańsk
-    
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni, dolore cumque unde non odit consequuntur voluptatum molestiae, sed quisquam, minima voluptas fugiat minus sunt corrupti ad officia aperiam. Facere, libero.
-    
-*   2017-Present: _Data Analyst - Thomson Reuters Lipper_, Gdynia
-    
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni, dolore cumque unde non odit consequuntur voluptatum molestiae, sed quisquam, minima voluptas fugiat minus sunt corrupti ad officia aperiam. Facere, libero.
-    
 *   2016-Present: _Freelance Front-End Developer_
     
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni, dolore cumque unde non odit consequuntur voluptatum molestiae, sed quisquam, minima voluptas fugiat minus sunt corrupti ad officia aperiam. Facere, libero.
+    Freelance Web Developer working in JavaScript, HTML5, CSS3 etc. Several projects completed.
     
 *   2016-Present: _Freelance Translator_
     
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni, dolore cumque unde non odit consequuntur voluptatum molestiae, sed quisquam, minima voluptas fugiat minus sunt corrupti ad officia aperiam. Facere, libero.
+    Translating between Polish, English, German. Several commercial translations completed. Knowledge of CAT technologies.
+    
+*   2017-Present: _Data Analyst - Thomson Reuters Lipper_, Gdynia
+    
+    Data collection and validation in the area of Investment Funds, contact with fund management companies and providers. In charge of the Austrian market.
+    
+*   2015-2017: _Linguistic Services - VoiceLab_, Gdańsk
+    
+    Providing linguistic services in Polish, English and German, including the creation and correction of dictionaries, translation, voice recording, transcription of voice recordings, verification and quality control of voice recordings and text corpora.
+    
+*   2014-2016: _Turkish Language Instructor - Lengua Viva language school_, Gdańsk
+    
+    Work as a Turkish language instructor in a private language school. Teaching Turkish from beginner level up to B1.
+    
+*   2010-2011: _Translator - SMS Food Industries_, Starogard Gdański
+    
+    Work as a translator/interpreter at a turkish food processing facility. Translating and facilitating communication between Turkish and Polish employees.
     
 
 Technical Skills
@@ -46,15 +45,15 @@ Technical Skills
 
 *   _JavaScript_
     
-    Advanced knowledge. Several projects, websites completed. Vanilla JS, ES6, OOP, DOM, Vue.js, npm, gulp, basic Node.js knowledge
+    Advanced knowledge. Several projects, websites completed. Vanilla JS, ES6, OOP, DOM; Vue.js, npm, gulp, basic Node.js knowledge
     
 *   _HTML5_
     
-    Advanced knowledge. Several projects, websites completed. Semantic HTML, Markdown, Handlebars
+    Advanced knowledge. Several projects, websites completed. Semantic HTML; Markdown, Handlebars
     
 *   _CSS3_
     
-    Advanced knowledge. Several projects, websites completed. Responsive Web Design, SCSS, Aesthetic design principles
+    Advanced knowledge. Several projects, websites completed. Responsive Web Design, Aesthetic design principles; SCSS
     
 *   _SQL_
     
@@ -77,10 +76,22 @@ Technical Skills
 
 *   _Fund Name Shortener_
     
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident sed corrupti enim nostrum dolores soluta nulla dignissimos mollitia labore, odio consequatur officia, ratione cumque. Qui at itaque dolores voluptatum sequi!
+    Created during employment at Thomson Reuters Lipper. It can be used to shorten the names of funds according to internal limitations and add share class symbols in a uniform way. Technologies/features: Vanilla JS, localStorage, gulp, file upload, CSV export
     
     *   [Live https://mareksl.github.io/nameShortener](https://mareksl.github.io/nameShortener)
     *   [Code https://github.com/mareksl/nameShortener](https://github.com/mareksl/nameShortener)
+*   _Majestic Band Website_
+    
+    One-Page website for the Reggae & Ska band Majestic. Includes simple backend in PHP & MySQL.
+    
+    *   [Live http://majestic.com.pl/](http://majestic.com.pl/)
+    *   [Code https://github.com/mareksl/majestic](https://github.com/mareksl/majestic)
+*   _W drodze Exhibition Website_
+    
+    Website for the cyclical exhibition "W drodze" (On the way). Includes a simple static site generator created using gulp.
+    
+    *   [Live http://wdrodze.art/](http://wdrodze.art/)
+    *   [Code https://github.com/mareksl/wdrodze](https://github.com/mareksl/wdrodze)
 
 Languages
 ---------

@@ -46,10 +46,11 @@ ul {
 }
 
 li {
+    padding-top: 8px;
     padding-bottom: 32px;
 }
 
-li:last-child {
+li:last-of-type {
     padding-bottom: 0;
 }
 
@@ -77,6 +78,10 @@ h3 {
     padding: 8px 0;
 }
 
+.projects {
+    margin-top: 32px;
+}
+
 h4 {
     font-size: 1.414em;
     padding: 4px 0;
@@ -89,6 +94,10 @@ small {
 em {
     font-weight: bold;
     font-size: 18px;
+}
+
+p {
+    /* padding-top: 8px; */
 }
 
 a {
