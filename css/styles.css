@@ -244,6 +244,11 @@ footer {
     content: '\0020';
 }
 
+.cv-link {
+    display: none;
+    padding-top: 64px;
+}
+
 @media (min-width: 620px),
 print {
     .photo {
@@ -276,6 +281,9 @@ print {
     }
     .print-only {
         flex: 0 1 100%;
+        display: block;
+    }
+    .cv-link {
         display: block;
     }
 }
