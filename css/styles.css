@@ -191,6 +191,7 @@ section::after {
 footer {
     text-align: center;
     margin-bottom: 48px;
+    line-height: 1;
 }
 
 .totop,
@@ -246,7 +247,7 @@ footer {
 
 .cv-link {
     display: none;
-    padding-top: 64px;
+    /* padding-top: 64px; */
 }
 
 @media (min-width: 620px),
@@ -285,5 +286,13 @@ print {
     }
     .cv-link {
         display: block;
+        text-align: right;
+    }
+    footer {
+        margin-bottom: 0;
+    }
+    body {
+        padding-bottom: 0;
+        padding-top: 16px;
     }
 }
