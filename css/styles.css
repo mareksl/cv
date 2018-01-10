@@ -99,6 +99,7 @@ em {
 a {
     color: #415A5A;
     text-decoration: underline;
+    transition: .2s;
 }
 
 a:hover {
@@ -209,6 +210,7 @@ footer {
     border-radius: 50%;
     border: 1px solid #c4d4d4;
     box-shadow: 0 2px 4px #c4d4d4;
+    transition: .2s;
 }
 
 .totop {
@@ -222,6 +224,7 @@ footer {
 .totop:hover,
 .print:hover {
     background-color: #c4d4d4;
+    transform: scale(1.2);
 }
 
 .totop:active,
