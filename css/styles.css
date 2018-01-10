@@ -39,6 +39,7 @@ body {
     padding: 32px;
     font-family: Muli, sans-serif;
     color: #415A5A;
+    scroll-behavior: smooth;
 }
 
 ul {
