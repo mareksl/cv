@@ -59,11 +59,7 @@ Technical Skills
     
     Intermediate knowledge. MySQL
     
-*   _PHP_
-    
-    Basic knowledge
-    
-*   _Python_
+*   _PHP, Python, C#_
     
     Beginner knowledge
     
@@ -92,6 +88,8 @@ Technical Skills
     
     *   [Live http://wdrodze.art/](http://wdrodze.art/)
     *   [Code https://github.com/mareksl/wdrodze](https://github.com/mareksl/wdrodze)
+
+\+ Other small / non-commercial / WIP projects on [GitHub https://github.com/mareksl](https://github.com/mareksl)
 
 Languages
 ---------
@@ -131,7 +129,7 @@ Contact
 *   ### Links
     
     *   [GitHub https://github.com/mareksl](https://github.com/mareksl)
-    *   [LinkedIn https://www.linkedin.com/in/marek-s%C5%82adczyk-13aab9107](https://www.linkedin.com/in/marek-s%C5%82adczyk-13aab9107)
+    *   [LinkedIn https://www.linkedin.com/in/mareksl](https://www.linkedin.com/in/mareksl)
 
 Additional Info
 ---------------
