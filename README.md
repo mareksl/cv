@@ -45,7 +45,7 @@ Technical Skills
 
 *   _JavaScript_
     
-    Advanced knowledge. Several projects, websites completed. Vanilla JS, ES6, OOP, DOM; Vue.js, npm, gulp, basic Node.js knowledge
+    Advanced knowledge. Several projects, websites completed. Vanilla JS, ES6, OOP, DOM; jQuery, Vue.js, Angular (2+), TypeScript; npm, gulp Node.js; Jest, mocha
     
 *   _HTML5_
     
@@ -53,19 +53,19 @@ Technical Skills
     
 *   _CSS3_
     
-    Advanced knowledge. Several projects, websites completed. Responsive Web Design, Aesthetic design principles; SCSS
+    Advanced knowledge. Several projects, websites completed. Responsive Web Design, Aesthetic design principles; SCSS, Bootstrap
     
-*   _SQL_
+*   _Databases_
     
-    Intermediate knowledge. MySQL
+    SQL (MySQL, Oracle); MongoDB (mongoose)
     
-*   _PHP, Python, C#_
+*   _Other Languages_
     
-    Beginner knowledge
+    Basic PHP; Started learning Python, C#
     
-*   _CAT (Computer Assisted Translation) Tools_
+*   _Other Tools_
     
-    SDL Trados, SmartCAT
+    git; Postman; SDL Trados, SmartCAT (Computer Assisted Translation)
     
 
 ### Projects
