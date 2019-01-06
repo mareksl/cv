@@ -198,6 +198,7 @@ section::after {
 }
 
 footer {
+  display: flex;
   text-align: center;
   margin-bottom: 48px;
   line-height: 1;
