@@ -1,141 +1,138 @@
-Marek Sładczyk
-==============
-Education
----------
+# Marek Sładczyk
 
-*   2013-2016: University of Gdańsk
-    
-    _B.A. in Applied Linguistics_ \- Translation Studies
-    
-*   2010: Private School of the German Embassy Ankara, Turkey
-    
-    Bilingual (English, German) _International Baccalaureate_ Diploma
-    
+- [Education](#education)
+- [Work Experience](#work-experience)
+- [Technical Skills](#technical-skills)
+- [Languages](#languages)
+- [Contact](#contact)
 
-Work Experience
----------------
+## Summary
 
-*   2016-Present: _Freelance Front-End Developer_
-    
-    Freelance Web Developer working in JavaScript, HTML5, CSS3 etc. Several projects completed.
-    
-*   2016-Present: _Freelance Translator_
-    
-    Translating between Polish, English, German. Several commercial translations completed. Knowledge of CAT technologies.
-    
-*   2017-Present: _Data Analyst - Thomson Reuters Lipper_, Gdynia
-    
-    Data collection and validation in the area of Investment Funds, contact with fund management companies and providers. In charge of the Austrian market.
-    
-*   2015-2017: _Linguistic Services - VoiceLab_, Gdańsk
-    
-    Providing linguistic services in Polish, English and German, including the creation and correction of dictionaries, translation, voice recording, transcription of voice recordings, verification and quality control of voice recordings and text corpora.
-    
-*   2014-2016: _Turkish Language Instructor - Lengua Viva language school_, Gdańsk
-    
-    Work as a Turkish language instructor in a private language school. Teaching Turkish from beginner level up to B1.
-    
-*   2010-2011: _Translator - SMS Food Industries_, Starogard Gdański
-    
-    Work as a translator/interpreter at a turkish food processing facility. Translating and facilitating communication between Turkish and Polish employees.
-    
+After studying Applied Linguistics, I decided to broaden my education and pursue a career in IT, starting with Front-End and Javascript Development. I have worked hard in my own time to learn HTML, CSS and Javascript using various resources such as online courses, books and tutorials, actively following and seeking support from experienced developers and practising programming by completing projects. I am always actively learning and expanding my knowledge, attending meetups and following current trends in both Front-End and Back-End Javascript Development.
 
-Technical Skills
-----------------
+I have experience working in the Scrum framework with international Agile teams of developers, designers and testers and am always eager to contribute to a project and be part of it.
 
-*   _JavaScript_
-    
-    Advanced knowledge. Several projects, websites completed. Vanilla JS, ES6, OOP, DOM; jQuery, Vue.js, Angular (2+), TypeScript; npm, gulp Node.js; Jest, mocha
-    
-*   _HTML5_
-    
-    Advanced knowledge. Several projects, websites completed. Semantic HTML; Markdown, Handlebars
-    
-*   _CSS3_
-    
-    Advanced knowledge. Several projects, websites completed. Responsive Web Design, Aesthetic design principles; SCSS, Bootstrap
-    
-*   _Databases_
-    
-    SQL (MySQL, Oracle); MongoDB (mongoose)
-    
-*   _Other Languages_
-    
-    Basic PHP; Started learning Python, C#
-    
-*   _Other Tools_
-    
-    git; Postman; SDL Trados, SmartCAT (Computer Assisted Translation)
-    
+[See this CV online: https://mareksl.github.io/cv/](https://mareksl.github.io/cv/)
 
-### Projects
+## Education
 
-*   _Fund Name Shortener_
-    
-    Created during employment at Thomson Reuters Lipper. It can be used to shorten the names of funds according to internal limitations and add share class symbols in a uniform way. Technologies/features: Vanilla JS, localStorage, gulp, file upload, CSV export
-    
-    *   [Live https://mareksl.github.io/nameShortener](https://mareksl.github.io/nameShortener)
-    *   [Code https://github.com/mareksl/nameShortener](https://github.com/mareksl/nameShortener)
-*   _Majestic Band Website_
-    
-    One-Page website for the Reggae & Ska band Majestic. Includes simple backend in PHP & MySQL.
-    
-    *   [Live http://majestic.com.pl/](http://majestic.com.pl/)
-    *   [Code https://github.com/mareksl/majestic](https://github.com/mareksl/majestic)
-*   _W drodze Exhibition Website_
-    
-    Website for the cyclical exhibition "W drodze" (On the way). Includes a simple static site generator created using gulp.
-    
-    *   [Live http://wdrodze.art/](http://wdrodze.art/)
-    *   [Code https://github.com/mareksl/wdrodze](https://github.com/mareksl/wdrodze)
+- 2017-2018: Gdansk School of Banking (WSB)
 
-\+ Other small / non-commercial / WIP projects on [GitHub https://github.com/mareksl](https://github.com/mareksl)
+  _Post-Graduate Studies_ - Front-End Development
 
-Languages
----------
+- 2013-2016: University of Gdańsk
 
-*   _Polish_
-    
-    Native proficiency
-    
-*   _English_
-    
-    Full professional proficiency
-    
-*   _German_
-    
-    Full professional proficiency
-    
-*   _Turkish_
-    
-    Professional working proficiency
-    
-*   _French_
-    
-    Elementary proficiency
-    
+  _B.A. in Applied Linguistics_ - Translation Studies
 
-Contact
--------
+- 2010: Private School of the German Embassy Ankara, Turkey
 
-*   ### City
-    
-    Sopot, Poland
-    
-*   ### E-Mail
-    
-    marekslad(at)hotmail.com
-    
-*   ### Links
-    
-    *   [GitHub https://github.com/mareksl](https://github.com/mareksl)
-    *   [LinkedIn https://www.linkedin.com/in/mareksl](https://www.linkedin.com/in/mareksl)
+  Bilingual (English, German) _International Baccalaureate_ Diploma
 
-Additional Info
----------------
+## Work Experience
 
-Born 21.08.1993 in Gdynia, Poland
+- 2019-Present: _JavaScript Developer - STX Next_, Gdańsk
 
-Lived in Ankara, Turkey for 10 years (2000-2010)
+  Developing mobile and desktop applications for international clients including start-ups and corporations from various sectors (CleanTech, Wellbeing, MedTech, FinTech, Logistics, E-Commerce, Finance). Mainly on the Front-End (React, React Native, Vue), but also some Back-End work in Node.js with Microservices. Experience in AWS, Docker; working with Agile teams in Scrum framework.
 
-I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the Personal Data Protection Act as of 29 August 1997, consolidated text: Journal of Laws 2016, item 922 as amended.
+- 2017-2019: _Data Analyst - Refinitiv (formerly Thomson Reuters), Lipper_, Gdynia
+
+  Data collection and validation in the area of Investment Funds, contact with fund management companies and providers. In charge of the Austrian market.
+
+- 2016-2019: _Freelance Front-End Developer_
+
+  Freelance Web Developer working in JavaScript, HTML5, CSS3 etc.
+
+- 2016-2019: _Freelance Translator_
+
+  Translating between Polish, English, German. Several commercial translations completed. Knowledge of CAT technologies.
+
+- 2015-2017: _Linguistic Services - VoiceLab_, Gdańsk
+
+  Providing linguistic services in Polish, English and German, including the creation and correction of dictionaries, translation, voice recording, transcription of voice recordings, verification and quality control of voice recordings and text corpora.
+
+- 2014-2016: _Turkish Language Instructor - Lengua Viva language school_, Gdańsk
+
+  Work as a Turkish language instructor in a private language school. Teaching Turkish from beginner level up to B1.
+
+## Technical Skills
+
+- _Front-End_
+
+  TypeScript;
+
+  React, React Native, Vue, Angular;
+
+  Jest, Jasmine;
+
+  HTML5, CSS, SCSS, RWD
+
+- _Back-End_
+
+  Node.js, Nest.js, Express;
+
+  Microservices
+
+- _Databases_
+
+  SQL, MongoDB
+
+- _Cloud_
+
+  Experience with AWS (Lambda, API Gateway, S3, EC2, Cognito)
+
+- _Other_
+
+  GraphQL, Hasura;
+
+  Docker;
+
+  CI (Jenkins, Buddy, GitHub Actions);
+
+  git (GitHub, GitLab, BitBucket), Jira;
+
+  Postman;
+
+  Agile, Scrum;
+
+## Languages
+
+- _Polish_
+
+  Native proficiency
+
+- _English_
+
+  Full professional proficiency
+
+- _German_
+
+  Full professional proficiency
+
+- _Turkish_
+
+  Professional working proficiency
+
+- _French_
+
+  Elementary proficiency
+
+## Contact
+
+- ### City
+
+  Sopot, Poland
+
+- ### E-Mail
+
+  [marekslad@hotmail.com](mailto:marekslad@hotmail.com)
+
+- ### Links
+
+  - [GitHub https://github.com/mareksl](https://github.com/mareksl)
+  - [LinkedIn https://www.linkedin.com/in/mareksl](https://www.linkedin.com/in/mareksl)
+
+I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the Personal Data Protection Act as of 29 August 1997, consolidated text: Journal of Laws 2016, item 922 as amended. 
+
+Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji oraz selekcji (zgodnie z Ustawą z dnia 29.08.1997 roku o Ochronie Danych Osobowych; tekst jednolity: Dz. U. 2016 r. poz. 922).
+
+[Download a PDF version of the CV](files/CV_Marek_Sladczyk.pdf)
