@@ -168,13 +168,6 @@ section::after {
   box-shadow: 2px 0 4px -2px #c4d4d4;
 }
 
-.other-projects {
-  display: block;
-  border-top: 1px dashed #c4d4d4;
-  padding-top: 8px;
-  margin-top: 8px;
-}
-
 .links li {
   padding-bottom: 0;
 }
@@ -286,6 +279,12 @@ footer {
 @media print {
   nav {
     display: none;
+  }
+  header {
+    margin: 32px 0;
+  }
+  section {
+    margin: 32px 0;
   }
   .totop,
   .print {
