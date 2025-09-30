@@ -30,9 +30,15 @@ I have experience working in the Scrum framework with international Agile teams 
 
 ## Work Experience
 
-- 2019-Present: _JavaScript Developer - STX Next_, Gdańsk
+- 2022-Present: Senior JavaScript Developer \
+  2019-2022: JavaScript Developer, _STX Next_, Gdańsk
 
-  Developing mobile and desktop applications for international clients including start-ups and corporations from various sectors (CleanTech, Wellbeing, MedTech, FinTech, Logistics, E-Commerce, Finance). Mainly on the Front-End (React, React Native, Vue), but also some Back-End work in Node.js with Microservices. Experience in AWS, Docker; working with Agile teams in Scrum framework.
+  Developing web applications for international clients including
+  start-ups and corporations from various sectors (FinTech &
+  Finance, Cloud Media, CleanTech, Wellbeing, MedTech, Logistics,
+  E-Commerce) including companies such as **MAN Group**. Focusing mainly
+  on the Front-End with some Back-End work in Node.js. Experience in
+  AWS, Docker; working with Agile teams in Scrum framework.
 
 - 2017-2019: _Data Analyst - Refinitiv (formerly Thomson Reuters), Lipper_, Gdynia
 
@@ -52,7 +58,7 @@ I have experience working in the Scrum framework with international Agile teams 
 
 - 2014-2016: _Turkish Language Instructor - Lengua Viva language school_, Gdańsk
 
-  Work as a Turkish language instructor in a private language school. Teaching Turkish from beginner level up to B1.
+  Turkish language instructor in a private language school from beginner level up to B1.
 
 ## Technical Skills
 
@@ -62,31 +68,33 @@ I have experience working in the Scrum framework with international Agile teams 
 
   React, React Native, Vue, Angular;
 
-  Jest, Jasmine;
+  Jest, Vitest, React Testing Library;
 
-  HTML5, CSS, SCSS, RWD
+  HTML5, CSS, SCSS, RWD; Ant Design, Tailwind CSS;
+
+  MobX, Valtio, Zustand; Highcharts, AG Grid;
 
 - _Back-End_
 
   Node.js, Nest.js, Express;
 
-  Microservices
+  Microservices;
 
 - _Databases_
 
-  SQL, MongoDB
+  SQL, MongoDB;
 
 - _Cloud_
 
-  Experience with AWS (Lambda, API Gateway, S3, EC2, Cognito)
+  Experience with AWS (Lambda, Step Functions, API Gateway, S3, EC2, Cognito);
 
 - _Other_
 
+  Playwright;
+
   GraphQL, Hasura;
 
-  Docker;
-
-  CI (Jenkins, Buddy, GitHub Actions);
+  Docker; CI (Jenkins, Buddy, GitHub Actions);
 
   git (GitHub, GitLab, BitBucket), Jira;
 
@@ -131,7 +139,7 @@ I have experience working in the Scrum framework with international Agile teams 
   - [GitHub https://github.com/mareksl](https://github.com/mareksl)
   - [LinkedIn https://www.linkedin.com/in/mareksl](https://www.linkedin.com/in/mareksl)
 
-I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the Personal Data Protection Act as of 29 August 1997, consolidated text: Journal of Laws 2016, item 922 as amended. 
+I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the Personal Data Protection Act as of 29 August 1997, consolidated text: Journal of Laws 2016, item 922 as amended.
 
 Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji oraz selekcji (zgodnie z Ustawą z dnia 29.08.1997 roku o Ochronie Danych Osobowych; tekst jednolity: Dz. U. 2016 r. poz. 922).
 
