@@ -284,7 +284,10 @@ footer {
     margin: 32px 0;
   }
   section {
-    margin: 32px 0;
+    margin: 12px 0;
+  }
+  li {
+    padding-bottom: 24px;
   }
   .totop,
   .print {
